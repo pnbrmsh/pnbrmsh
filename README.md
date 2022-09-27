@@ -26,8 +26,8 @@ Hi folks! My name is Bram. I want to become an iOS developer. Fun facts, I am cu
 ```
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/MacOS-12.5.1-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Xcode-13.4.1-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Swift-5.6.1-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/MacOS-12.6-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Xcode-14.0.1-informational?style=flat&logo=xcode&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Swift-5.7-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/CBH-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
